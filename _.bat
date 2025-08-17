@@ -1,0 +1,4 @@
+$env:OLLAMA_NUM_THREADS="12"
+$env:OLLAMA_DEBUG="1"
+$env:OLLAMA_HOST="127.0.0.1:11500"
+ollama serve
